@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		810EAF1B2DEE6AFD00E68A3E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 810EAF1A2DEE6AFD00E68A3E /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		810EAE8C2DEE2F4700E68A3E /* WalmartContractor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WalmartContractor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		810EAF1A2DEE6AFD00E68A3E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		810EAE832DEE2F4700E68A3E = {
 			isa = PBXGroup;
 			children = (
+				810EAF1A2DEE6AFD00E68A3E /* README.md */,
 				810EAE8E2DEE2F4700E68A3E /* WalmartContractor */,
 				810EAE8D2DEE2F4700E68A3E /* Products */,
 			);
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				810EAF1B2DEE6AFD00E68A3E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
