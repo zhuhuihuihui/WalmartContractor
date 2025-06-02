@@ -55,6 +55,8 @@ WalmartContractor/
 
 ## Demo
 
+A short demo video is included in this project.  
+**To view:** Open `Demo.mp4` in your favorite video player.
 
 ---
 
